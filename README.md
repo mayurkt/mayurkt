@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayurkt
+- 👋 Hi, I’m @mayurkt (Mayur kumar tembhare )
 - 👀 I’m interested in Working as a Front-end web developer.
 - 🌱 I’m currently learning web development and dsa with c++ /cp
 
